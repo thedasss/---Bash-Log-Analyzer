@@ -1,5 +1,3 @@
-�---
-
 # 🧠 Bash Log Analyzer — Automate Your Log Monitoring Like a Pro
 
 A simple yet powerful **Bash script** that scans your system or application log files, detects errors, and generates a detailed **log analysis report** automatically.
